@@ -1,0 +1,6 @@
+{
+  "name": "repro-parcel-issue-6760",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
