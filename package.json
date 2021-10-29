@@ -1,6 +1,11 @@
 {
   "name": "repro-parcel-issue-6760",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
 }
